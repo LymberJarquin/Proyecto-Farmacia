@@ -1,0 +1,12 @@
+C:\Users\jemminson\source\repos\Presentacion\CapasEntidad\bin\Debug\CapasEntidad.dll
+C:\Users\jemminson\source\repos\Presentacion\CapasEntidad\bin\Debug\CapasEntidad.pdb
+C:\Users\jemminson\source\repos\Presentacion\CapasEntidad\obj\Debug\CapasEntidad.csproj.AssemblyReference.cache
+C:\Users\jemminson\source\repos\Presentacion\CapasEntidad\obj\Debug\CapasEntidad.csproj.CoreCompileInputs.cache
+C:\Users\jemminson\source\repos\Presentacion\CapasEntidad\obj\Debug\CapasEntidad.dll
+C:\Users\jemminson\source\repos\Presentacion\CapasEntidad\obj\Debug\CapasEntidad.pdb
+C:\Users\jemminson\Desktop\Presentacion\CapasEntidad\bin\Debug\CapasEntidad.dll
+C:\Users\jemminson\Desktop\Presentacion\CapasEntidad\bin\Debug\CapasEntidad.pdb
+C:\Users\jemminson\Desktop\Presentacion\CapasEntidad\obj\Debug\CapasEntidad.csproj.AssemblyReference.cache
+C:\Users\jemminson\Desktop\Presentacion\CapasEntidad\obj\Debug\CapasEntidad.csproj.CoreCompileInputs.cache
+C:\Users\jemminson\Desktop\Presentacion\CapasEntidad\obj\Debug\CapasEntidad.dll
+C:\Users\jemminson\Desktop\Presentacion\CapasEntidad\obj\Debug\CapasEntidad.pdb
